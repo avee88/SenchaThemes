@@ -1,0 +1,59 @@
+/* COLORS */
+$dark-green: #006600;
+$green: #9DBEAB;
+$light-green: #CDE5D7;
+$dark-blue: #024B54;
+$blue: #048A9A;
+$navy-blue: #A0C6E8;
+$light-blue: #05A2B3;
+$dark-gray: #22272A;
+$gray: #525E66;
+$disabled-gray: #D6D6D6;
+$light-gray: #F5F5F5;
+$red: #D10000;
+$light-red: #f2dede;
+$orange: #a5583a;
+$white: #ffffff;
+$black: #000000;
+
+$blueHover: #026d7a;
+$blueOutlineActive: #c4d3d5;
+$blueOutlineHover: #dce7e8;
+
+$redActive: #e0c4c4;
+$redHover: #eddcdc;
+$redActiveColor: #8e0000;
+$redHoverColor: #a70000;
+
+$chart-blue1: #3E3F75;
+$chart-blue2: #336699;
+$chart-blue3: #0099CC;
+$chart-blue4: #6E8498;
+$chart-blue5: #78B2C7;
+$chart-green1: #4E786F;
+$chart-green2: #88A88B;
+$chart-green3: #5C9742;
+$chart-green4: #66702F;
+$chart-green5: #A7B452;
+$chart-orange: #F66A22;
+$chart-purple: #A45DB0;
+$chart-purple2: #87386D;
+$chart-darkGray: #525E66;
+$chart-brown: #887767;
+$chart-beige: #C79B73;
+$chart-yellow: #FFA500;
+$chart-red: #A70000;
+
+/* TYPOGRAPHY */
+$font-family: dynamic('DINOT-Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif);
+$font-size: dynamic(14px);
+$color: $dark-gray;
+$link-color: #0000EE;
+$link-color-visited: #551A8B;
+
+/* ICONS */
+$enable-font-icons: true;
+
+/* MEDIA */
+$mobile: "(max-width: 1023px)";
+$desktop: "(min-width: 1024px)";
